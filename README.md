@@ -8,6 +8,6 @@ Python implementation of forward kinematics, Jacobian-based inverse kinematics a
 - [x] Numerical Jacobian validation
 - [x] Numerical inverse kinematics
 - [x] IK convergence analysis
-- [ ] Joint-space trajectory generation
-- [ ] Trajectory visualization
+- [x] Joint-space trajectory generation
+- [x] Trajectory visualization
 - [ ] Final validation and documentation
